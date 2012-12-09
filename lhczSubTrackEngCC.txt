@@ -1,0 +1,260 @@
+00:00:12
+(Sounds of Emptiness)
+
+00:00:25
+(Industrial/Electrical Sounds)
+
+00:00:33
+(Dripping Water)
+
+00:01:48
+Oh it's you! You're not supposed to be here.
+
+00:01:56
+(Gun fire)
+
+00:02:01-00:02:10
+(Blurred voices and music)
+
+00:02:14
+(Alarm clock)
+
+00:02:27
+(Bird song)
+
+00:02:33
+(Groans)
+
+00:02:46
+James get up. We're late.
+
+00:02:50
+(Sighs)
+
+00:03:12
+Why'd we have to get so drunk on a Sunday night?
+
+00:03:26
+Do you remember that part last night where Amy got on the table and started to...
+(Interrupts) Dude, that's my sister! Don't want to be reminded.
+
+00:03:39
+Where's all the food?
+
+00:03:46
+(Sighs)
+
+00:03:49
+(Car horn honks)
+
+00:03:51
+Come on. Let's go!
+
+00:04:03
+Come on guys, we're gonna be late!
+
+00:04:06
+Sure you're ok to drive after your stunt last night Amy?
+
+00:04:17
+Oh... Hi Matt.
+
+00:04:19
+You al'right?
+
+00:04:25
+Not getting the bus today?
+
+00:04:26
+Nope!
+
+00:04:32
+I saw him as I drove past the shops and picked him up.
+
+00:04:36
+Oh ok.
+
+00:04:39
+So what's the rush anyway?
+
+00:04:40
+Some kind of emergency meeting.
+
+00:07:06
+What do you think this emergency meetings about?
+
+00:07:07
+I don't know, but... it can't be that important.
+
+00:07:15
+All right, go on ahead guys. I'm going to go powder my nose.
+
+00:07:25
+(Off camera) No! Dr. Niven LHC is the most important experiment of our time. I will not let unfounded
+(Interrupts) Unfounded?! Director, my results show
+
+00:07:36
+(Interrupts) Inconclusive! Your results are inconclusive at best. No, you'll have plenty of time for measurements when you're down in the tunnel tonight.
+
+00:07:43
+Director we have to stop the LHC until we assess the danger
+
+00:07:46
+No Dr. Niven. Once we have fixed this problem the LHC will run again as usual.
+
+00:07:52
+Find the Higgs is highest priority.
+
+00:08:09
+Why is doctor Niven going into the tunnels?
+
+00:08:38
+Why do you think the Director General is here?
+
+00:08:40
+Maybe they made a black hole...
+
+00:08:50
+(Very quiet) Sorry
+
+00:08:54
+(Amy&Lisa) Hey
+
+00:08:56
+(Lisa) So did you recover from last night?
+
+00:08:58
+(Amy) ...yeah. You too
+(Lisa) Mmmhmm.
+
+00:09:00
+(Amy) Wait, aren't you supposed to be on your way to Barcelona by now?
+
+00:09:03
+(Lisa) I might have missed my flight.
+
+00:09:05
+(Amy) Oh no!
+
+00:09:13
+(DG) Good morning! I am Professor Vacinski, Director General of CERN.
+
+00:09:19
+(DG) This meeting has been called because last night there was an emergency beam dump.
+(Crowd whispers furtively)
+
+00:09:26
+(DG) Here we see a monopole magnet in LHC Sector 7G.
+
+00:09:32
+(DG) Beam sensors have detected an unknown event caused this magnet to quench and triggered an uncontrolled shut down.
+
+00:09:42
+(DG) If this happens again the results could be catastrophic.
+
+00:09:46
+(DG) Due to the special circumstances, Dr. Niven is taking a team into the LHC tunnel to investigate the cause and see what damage there is.
+
+00:09:56
+The LHC will be in shut down until at least the end of the week. 
+
+00:10:00
+Since Dr. Niven will not be available we will need 4 volunteers to be on shift in the control room
+
+00:10:08
+(Connor) We'll do it.
+
+00:10:09
+(Amy) (Quietly) What are you doing?
+
+00:10:10
+(DG) Ok, you four.
+
+00:10:13
+(Lisa) Oh, I'm going to be at a conference in Barcelona
+
+00:10:16
+(DG) Uh, very well. You... you then!
+
+00:10:22
+(Matt) Uh, I have an analysis note due this week so I'm not going to have time to do this
+
+00:10:26
+(DG) (Interrupting) Ths collider will be shut down. You can work in the control room.
+
+00:10:30
+(DG) Report to the control room at 9pm. That is all everybody.
+
+00:10:37
+(Lisa) Sucks to you guys!
+
+00:10:59
+(Connor) Here you go.
+(Amy) Thanks.
+
+00:11:03
+(Connor) Those don't looks like proton decay matrices
+
+00:11:06
+(Amy) Uh, no. 
+
+00:11:12
+(Amy) Dr. Niven has got me working on this Higgs Bioentanglement simuation.
+
+00:11:16
+(Amy) Some company gave a lot of money to CERN and I get stuck working on it.
+
+00:11:20
+(Amy) I have so much work to do.
+
+00:11:24
+(Connor) Listen, are you ok after last night?
+
+00:11:26
+(Amy) Why?
+
+00:11:28
+(Connor) You and Matt...
+
+00:11:30
+(Amy) I don't know what you're talking about. Anyway, you jealous?
+
+00:11:37
+(Amy) Oh... sorry.
+
+00:11:41
+(Amy) Listen, I better go. I've got a lot of work to do.
+
+00:12:08
+(Amy) Oh I'm so tired. I can't even think about work right now.
+
+00:12:13
+(Amy) I hope he doesn't expect me to remember anything.
+
+00:12:22
+(Dr. Niven) Ah Lisa. Did you finish your talk?
+(Lisa) Yeah! Just in time.
+(Dr. Niven) I has every confidence in you.
+
+00:12:27
+(Amy) Did you get a chance to look at my simulation?
+(Dr. Niven) Ah yes! A problem with the sympasomatic parameter lattice.
+
+00:12:34
+(Dr. Niven) I think I found a way to express it differently.
+
+00:12:39
+(Dr. Niven) I didn't implement it in my analysis code yet but you might like to try it.
+
+00:12:50
+(Amy) It looks more complex though. I don't know if it will work on my laptop.
+(Dr. Niven) Well, we will deal with that later if we need to.
+(Amy) Ok, thanks
+
+00:12:57
+(Dr. Niven) Anyway I have to prepare my team for going into the tunnels and look over Lisa's talk so I will talk to you later.
+
+00:13:05
+(Dr. Niven) And Lisa, don't miss the plane again.
+(Amy) I won't.
+
