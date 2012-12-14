@@ -1,0 +1,48 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Video Zoom Percent: 0.5
+Scroll Position: 13
+Active Line: 24
+PlayResX: 640
+PlayResY: 320
+Video File: ..\..\..\Downloads\132971057.mp4
+Video Aspect Ratio: c2
+Video Position: 6426
+Audio URI: ..\..\..\Downloads\132971057.mp4
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.00,0:00:17.00,Default,,0,0,0,,(Crickets chirp)
+Dialogue: 0,0:00:25.00,0:00:29.00,Default,,0,0,0,,(Industrial/Electrical Sounds)
+Dialogue: 0,0:00:33.00,0:00:35.00,Default,,0,0,0,,(Dripping Water)
+Dialogue: 0,0:01:48.00,0:01:53.00,Default,,0,0,0,,Guard: Oh it's you! You're not supposed to be here.
+Dialogue: 0,0:01:56.00,0:01:58.00,Default,,0,0,0,,(Gun fire)
+Dialogue: 0,0:02:01.00,0:02:10.00,Default,,0,0,0,,(Blurred voices and music)
+Dialogue: 0,0:02:14.00,0:02:20.00,Default,,0,0,0,,(Alarm clock rings)
+Dialogue: 0,0:02:27.00,0:02:31.00,Default,,0,0,0,,(Bird song)
+Dialogue: 0,0:02:33.00,0:02:35.00,Default,,0,0,0,,Connor: (Groans)
+Dialogue: 0,0:02:45.00,0:02:48.00,Default,,0,0,0,,Connor: James get up. We're late.
+Dialogue: 0,0:02:50.00,0:02:52.00,Default,,0,0,0,,Connor: (Sighs)
+Dialogue: 0,0:03:12.00,0:03:15.00,Default,,0,0,0,,James: Why'd we have to get so drunk on a Sunday night?
+Dialogue: 0,0:03:26.00,0:03:30.00,Default,,0,0,0,,Connor: Do you remember that part last night where Amy got on the table and started to...
+Dialogue: 0,0:03:29.00,0:03:33.00,Default,,0,0,0,,James: (Interrupts) Dude, that's my sister! Don't want to be reminded.
+Dialogue: 0,0:03:38.00,0:03:41.00,Default,,0,0,0,,James: Where's all the food?
+Dialogue: 0,0:03:46.00,0:03:48.00,Default,,0,0,0,,James: (Sighs)
+Dialogue: 0,0:03:49.00,0:03:51.00,Default,,0,0,0,,(Car horn honks)
+Dialogue: 0,0:03:50.50,0:03:53.00,Default,,0,0,0,,Connor: Come on. Let's go!
+Dialogue: 0,0:04:03.00,0:04:05.00,Default,,0,0,0,,Amy: Come on guys, we're gonna be late!
+Dialogue: 0,0:04:05.50,0:04:08.00,Default,,0,0,0,,Connor: Sure you're ok to drive after your stunt last night Amy?
+Dialogue: 0,0:04:16.80,0:04:18.50,Default,,0,0,0,,James: Oh... Hi Matt.
+Dialogue: 0,0:04:18.70,0:04:20.50,Default,,0,0,0,,Matt: You al'right?
+Dialogue: 0,0:04:25.00,0:04:27.00,Default,,0,0,0,,Connor: Not getting the bus today?
+Dialogue: 0,0:04:26.00,0:04:28.00,Default,,0,0,0,,Matt: Nope!
+Dialogue: 0,0:04:28.00,0:04:30.00,Default,,0,0,0,,
