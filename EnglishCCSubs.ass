@@ -7,13 +7,13 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Video Zoom Percent: 0.5
-Scroll Position: 173
-Active Line: 183
+Scroll Position: 253
+Active Line: 263
 PlayResX: 640
 PlayResY: 320
 Video File: ..\..\..\Downloads\132971057.mp4
 Video Aspect Ratio: c2
-Video Position: 28628
+Video Position: 41365
 Audio URI: ..\..\..\Downloads\132971057.mp4
 YCbCr Matrix: TV.601
 
@@ -207,3 +207,83 @@ Dialogue: 0,0:19:49.30,0:19:51.00,Default,,0,0,0,,Kate: People are dying?!
 Dialogue: 0,0:19:51.00,0:19:53.00,Default,,0,0,0,,Matt: No one is dying!
 Dialogue: 0,0:19:52.00,0:19:54.00,Default,,0,0,0,,Amy: Shut up Matt!
 Dialogue: 0,0:19:54.00,0:19:56.00,Default,,0,0,0,,Amy: James, what can we do?
+Dialogue: 0,0:19:55.30,0:19:58.00,Default,,0,0,0,,James: I don't know, the overrides aren't working.
+Dialogue: 0,0:19:58.00,0:20:00.00,Default,,0,0,0,,Kate: I haven't got any signal!
+Dialogue: 0,0:19:59.50,0:20:02.00,Default,,0,0,0,,Matt: We're a hundred metres underground, what do you expect!
+Dialogue: 0,0:20:02.00,0:20:04.00,Default,,0,0,0,,(Console alarm sounds)
+Dialogue: 0,0:20:06.00,0:20:10.50,Default,,0,0,0,,James: The radiation levels are spiking. The shielding's not in place when the maintenance tunnels are open.
+Dialogue: 0,0:20:10.50,0:20:12.50,Default,,0,0,0,,Matt: Well why the fuck not?!
+Dialogue: 0,0:20:11.50,0:20:13.50,Default,,0,0,0,,James: This shouldn't be able to happen.
+Dialogue: 0,0:20:14.50,0:20:16.00,Default,,0,0,0,,Connor: ...Shit!
+Dialogue: 0,0:20:16.00,0:20:19.00,Default,,0,0,0,,Connor: We've got less than two minutes and we're fried! We've got to get out.
+Dialogue: 0,0:20:27.00,0:20:30.00,Default,,0,0,0,,Kate: What about the people in the tunnels?
+Dialogue: 0,0:20:28.50,0:20:30.00,Default,,0,0,0,,Matt: What about us!
+Dialogue: 0,0:20:33.00,0:20:34.00,Default,,0,0,0,,James: Fuck!
+Dialogue: 0,0:20:34.00,0:20:36.00,Default,,0,0,0,,James: It's locked down!
+Dialogue: 0,0:20:35.00,0:20:38.00,Default,,0,0,0,,Connor: James, calm down and think. How do we get out?
+Dialogue: 0,0:20:41.00,0:20:43.00,Default,,0,0,0,,James: We go into the service tunnels.
+Dialogue: 0,0:20:43.00,0:20:45.00,Default,,0,0,0,,Matt: The tunnels?! Are you mental?!
+Dialogue: 0,0:20:47.00,0:20:51.00,Default,,0,0,0,,James: The LHC master power's down there. It's shielded, we can shut it off.
+Dialogue: 0,0:20:51.00,0:20:53.00,Default,,0,0,0,,Matt: This is insane!
+Dialogue: 0,0:20:55.30,0:20:59.30,Default,,0,0,0,,Connor: Right, we'll go down and shut it off. Then we'll work out what to do there.
+Dialogue: 0,0:21:01.30,0:21:04.30,Default,,0,0,0,,Matt: No, you can't be...
+Dialogue: 0,0:21:03.00,0:21:05.00,Default,,0,0,0,,Amy (Interrupts): Come on!
+Dialogue: 0,0:22:01.00,0:22:03.00,Default,,0,0,0,,Kate: Push something!
+Dialogue: 0,0:22:05.00,0:22:08.00,Default,,0,0,0,,(Buttons being pushed)
+Dialogue: 0,0:22:08.50,0:22:10.50,Default,,0,0,0,,(Machines stop)
+Dialogue: 0,0:22:18.50,0:22:20.50,Default,,0,0,0,,(Group breathes heavily)
+Dialogue: 0,0:22:25.00,0:22:27.00,Default,,0,0,0,,(Power start again)
+Dialogue: 0,0:22:38.50,0:22:42.00,Default,,0,0,0,,Matt: So that's it?! The worlds largest largest machine has an on/off switch?
+Dialogue: 0,0:22:42.00,0:22:44.00,Default,,0,0,0,,Kate: What's your problem?
+Dialogue: 0,0:22:44.00,0:22:48.50,Default,,0,0,0,,James: Look, this is just a relay. There's six of them. If one of them trips the others go off automatically.
+Dialogue: 0,0:22:49.50,0:22:52.50,Default,,0,0,0,,Amy: I hope somebody noticed that.
+Dialogue: 0,0:22:51.50,0:22:55.50,Default,,0,0,0,,Connor: There's nobody here to notice it. No one will be in until tomorrow.
+Dialogue: 0,0:22:56.00,0:22:58.50,Default,,0,0,0,,Connor: We need to find an elevator to get back to the surface.
+Dialogue: 0,0:22:58.50,0:23:00.50,Default,,0,0,0,,Matt: Yeah, if James knows where they are?
+Dialogue: 0,0:23:00.50,0:23:02.50,Default,,0,0,0,,James: Look, if we follow the tunnels we'll get out.
+Dialogue: 0,0:23:04.50,0:23:09.00,Default,,0,0,0,,Kate: But... what about the people down there? Uh... they could still be alive couldn't they?
+Dialogue: 0,0:23:11.00,0:23:14.00,Default,,0,0,0,,Connor: Even if they are, there's nothing we can do for them.
+Dialogue: 0,0:23:14.50,0:23:16.70,Default,,0,0,0,,Connor: The best we can do is get out and try and get help.
+Dialogue: 0,0:23:18.70,0:23:20.70,Default,,0,0,0,,Kate: But if the radiation did that to them... then...
+Dialogue: 0,0:23:20.70,0:23:22.70,Default,,0,0,0,,James: No! We're safe when the machine's off. 
+Dialogue: 0,0:23:22.70,0:23:25.70,Default,,0,0,0,,James: It's just the ring itself that's radioactive. We're safe here.
+Dialogue: 0,0:23:27.50,0:23:29.70,Default,,0,0,0,,Amy: Oh my god, all those people.
+Dialogue: 0,0:23:29.70,0:23:31.70,Default,,0,0,0,,Amy: How could this happen?
+Dialogue: 0,0:23:31.50,0:23:35.00,Default,,0,0,0,,James: It couldn't have happened. You can't turn the machine on when there are people are down there.
+Dialogue: 0,0:23:35.50,0:23:38.00,Default,,0,0,0,,James: There are interlock systems everywhere.
+Dialogue: 0,0:23:38.00,0:23:41.00,Default,,0,0,0,,Matt: Well somebody has fucked up, and it wasn't me!
+Dialogue: 0,0:23:40.50,0:23:44.00,Default,,0,0,0,,Connor: Yeah, and it wasn't us! This couldn't happen from the control room.
+Dialogue: 0,0:23:43.70,0:23:50.00,Default,,0,0,0,,Connor: No one has got access to do that except... except maybe Dr. Niven, and he was down there.
+Dialogue: 0,0:23:50.50,0:23:55.00,Default,,0,0,0,,Connor: The sooner we get out of here the sooner we can sort it out.
+Dialogue: 0,0:24:46.00,0:24:49.00,Default,,0,0,0,,Kate: I... I don't like it down here.
+Dialogue: 0,0:24:48.50,0:24:51.00,Default,,0,0,0,,James: It's not too far.
+Dialogue: 0,0:24:51.50,0:24:53.00,Default,,0,0,0,,(Scream in the distance)
+Dialogue: 0,0:24:54.50,0:24:56.00,Default,,0,0,0,,Amy: What the hell was that?!
+Dialogue: 0,0:25:10.00,0:25:13.00,Default,,0,0,0,,Kate: Probably a steam valve or something... right?
+Dialogue: 0,0:25:13.00,0:25:15.00,Default,,0,0,0,,James: Probably.
+Dialogue: 0,0:25:15.70,0:25:18.00,Default,,0,0,0,,Kate: How much further is it?
+Dialogue: 0,0:25:17.00,0:25:19.00,Default,,0,0,0,,James: It's not far.
+Dialogue: 0,0:25:58.50,0:26:00.00,Default,,0,0,0,,Matt: ...Great!
+Dialogue: 0,0:26:00.50,0:26:02.50,Default,,0,0,0,,Matt: Just as i was starting to get freaked out.
+Dialogue: 0,0:26:03.00,0:26:05.00,Default,,0,0,0,,James: Look, I'm sorry. I thought that...
+Dialogue: 0,0:26:05.00,0:26:07.50,Default,,0,0,0,,Matt (Interrupting): Do you have a clue where we're going or don't you?
+Dialogue: 0,0:26:06.50,0:26:07.50,Default,,0,0,0,,Amy: Matt...
+Dialogue: 0,0:26:07.50,0:26:13.50,Default,,0,0,0,,Matt: I can't be the only person that heard that scream. We're running around down here, I mean where the fuck are we going?
+Dialogue: 0,0:26:13.00,0:26:16.50,Default,,0,0,0,,Connor: Matt, calm down. If you know where to go, let's hear it. If not, shut up.
+Dialogue: 0,0:26:16.50,0:26:18.50,Default,,0,0,0,,Connor: James, do you know where we can go?
+Dialogue: 0,0:26:20.00,0:26:25.50,Default,,0,0,0,,James: I think if we go back and left and follow the ring around we can our way from there...
+Dialogue: 0,0:26:45.70,0:26:46.70,Default,,0,0,0,,(Loud bang)
+Dialogue: 0,0:26:59.70,0:27:01.00,Default,,0,0,0,,(Growling)
+Dialogue: 0,0:27:01.00,0:27:03.00,Default,,0,0,0,,(Kate screams)
+Dialogue: 0,0:27:13.50,0:27:15.00,Default,,0,0,0,,James: Kate!
+Dialogue: 0,0:27:33.20,0:27:34.50,Default,,0,0,0,,(Bang against door)
+Dialogue: 0,0:27:38.00,0:27:40.00,Default,,0,0,0,,James: We've got to go and get her.
+Dialogue: 0,0:27:39.50,0:27:46.00,Default,,0,0,0,,Amy: James listen to me! James, listen! She's gone! You saw what those people did, you saw what they did.
+Dialogue: 0,0:27:49.00,0:27:52.00,Default,,0,0,0,,Matt: Don't just fucking stand there, help!
+Dialogue: 0,0:28:00.00,0:28:02.00,Default,,0,0,0,,(Gas escaping)
+Dialogue: 0,0:28:03.50,0:28:06.00,Default,,0,0,0,,(Zombies scream in pain)
+Dialogue: 0,0:28:19.50,0:28:21.00,Default,,0,0,0,,Connor: What's that?!
+Dialogue: 0,0:28:21.00,0:28:24.00,Default,,0,0,0,,James: Freon coolant gas.
+Dialogue: 0,0:28:31.00,0:28:32.50,Default,,0,0,0,,Matt: What the fuck just happened?
+Dialogue: 0,0:28:34.00,0:28:40.00,Default,,0,0,0,,Amy: They looked like... the technician team that were down here. But why would they that to us?
+Dialogue: 0,0:28:40.00,0:28:42.00,Default,,0,0,0,,
