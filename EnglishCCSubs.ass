@@ -7,14 +7,14 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Video Zoom Percent: 0.5
-Scroll Position: 147
-Active Line: 158
+Scroll Position: 173
+Active Line: 183
 PlayResX: 640
 PlayResY: 320
-Video File: C:\Users\hday\Downloads\132971057.mp4
+Video File: ..\..\..\Downloads\132971057.mp4
 Video Aspect Ratio: c2
-Video Position: 26525
-Audio URI: C:\Users\hday\Downloads\132971057.mp4
+Video Position: 28628
+Audio URI: ..\..\..\Downloads\132971057.mp4
 YCbCr Matrix: TV.601
 
 [V4+ Styles]
@@ -79,7 +79,7 @@ Dialogue: 0,0:09:26.00,0:09:31.00,Default,,0,0,0,,DG: Here we see a monopole mag
 Dialogue: 0,0:09:32.00,0:09:41.00,Default,,0,0,0,,DG: Beam sensors have detected an unknown event caused this magnet to quench and triggered an uncontrolled shut down.
 Dialogue: 0,0:09:41.00,0:09:45.00,Default,,0,0,0,,DG: If this happens again the results could be catastrophic.
 Dialogue: 0,0:09:45.30,0:09:55.00,Default,,0,0,0,,DG: Due to the special circumstances, Dr. Niven is taking a team into the LHC tunnel to investigate the cause and see what damage there is.
-Dialogue: 0,0:09:56.00,0:10:00.00,Default,,0,0,0,,The LHC will be in shut down until at least the end of the week. 
+Dialogue: 0,0:09:56.00,0:10:00.00,Default,,0,0,0,,The LHC will be in shut down until at least the end of the week.
 Dialogue: 0,0:09:59.50,0:10:07.00,Default,,0,0,0,,DG: Since Dr. Niven will not be available we will need 4 volunteers to be on shift in the control room.
 Dialogue: 0,0:10:07.50,0:10:09.00,Default,,0,0,0,,Connor: We'll do it.
 Dialogue: 0,0:10:08.30,0:10:10.00,Default,,0,0,0,,Amy: (Quietly) What are you doing?
@@ -93,7 +93,7 @@ Dialogue: 0,0:10:37.10,0:10:39.50,Default,,0,0,0,,Lisa: Sucks to you guys!
 Dialogue: 0,0:10:59.30,0:11:01.00,Default,,0,0,0,,Connor: Here you go.
 Dialogue: 0,0:11:00.30,0:11:02.00,Default,,0,0,0,,Amy: Thanks.
 Dialogue: 0,0:11:02.50,0:11:05.00,Default,,0,0,0,,Connor: They don't looks like proton decay matrices.
-Dialogue: 0,0:11:05.00,0:11:07.00,Default,,0,0,0,,Amy: Uh, no. 
+Dialogue: 0,0:11:05.00,0:11:07.00,Default,,0,0,0,,Amy: Uh, no.
 Dialogue: 0,0:11:12.20,0:11:16.00,Default,,0,0,0,,Amy: Dr. Niven has got me working on this Higgs Bioentanglement simulation.
 Dialogue: 0,0:11:16.50,0:11:20.00,Default,,0,0,0,,Amy: Some company gave a lot of money to CERN and I get stuck working on it.
 Dialogue: 0,0:11:20.00,0:11:22.00,Default,,0,0,0,,Amy: I have so much work to do.
@@ -176,9 +176,34 @@ Dialogue: 0,0:17:58.30,0:18:00.00,Default,,0,0,0,,Amy: I thought I'd got it work
 Dialogue: 0,0:18:01.30,0:18:03.00,Default,,0,0,0,,James: Got what working.
 Dialogue: 0,0:18:03.00,0:18:04.00,Default,,0,0,0,,Connor (off screen): Her Higgs simulation.
 Dialogue: 0,0:18:04.00,0:18:06.30,Default,,0,0,0,,Kate: Her... what simulation?
-Dialogue: 0,0:18:06.30,0:18:09.30,Default,,0,0,0,,Amy: My Higgs radiation simulation. 
+Dialogue: 0,0:18:06.30,0:18:09.30,Default,,0,0,0,,Amy: My Higgs radiation simulation.
 Dialogue: 0,0:18:11.30,0:18:13.30,Default,,0,0,0,,Matt: The "God" particle.
 Dialogue: 0,0:18:14.30,0:18:17.30,Default,,0,0,0,,Amy: It's a particle that we're trying to make in the collider.
 Dialogue: 0,0:18:17.30,0:18:23.30,Default,,0,0,0,,Amy: I'm supposed to be investigating how it acts on living tissue, but my programme just crashes every single time that it starts to look bad.
 Dialogue: 0,0:18:24.00,0:18:26.30,Default,,0,0,0,,Connor: so what, you think Higgs radiation is dangerous?
-Dialogue: 0,0:18:26.30,0:18:28.30,Default,,0,0,0,,
+Dialogue: 0,0:18:26.30,0:18:29.30,Default,,0,0,0,,Amy: I don't know. I'd know if I could get it to finish.
+Dialogue: 0,0:18:29.30,0:18:31.30,Default,,0,0,0,,Connor: They wouldn't run the LHC if they thought it was a danger.
+Dialogue: 0,0:18:31.30,0:18:33.30,Default,,0,0,0,,Connor: Must be a glitch or something.
+Dialogue: 0,0:18:34.00,0:18:36.30,Default,,0,0,0,,Connor: Have you tried on the central computer system?
+Dialogue: 0,0:18:36.30,0:18:39.30,Default,,0,0,0,,James: Except... she doesn't have access to the mainframe.
+Dialogue: 0,0:18:39.30,0:18:41.00,Default,,0,0,0,,Kate: Are you not allowed to use it?
+Dialogue: 0,0:18:41.00,0:18:43.00,Default,,0,0,0,,Connor: Well... not exactly.
+Dialogue: 0,0:18:45.00,0:18:55.00,Default,,0,0,0,,(Typing on keyboard)
+Dialogue: 0,0:18:58.00,0:19:00.00,Default,,0,0,0,,Connor: There we go.
+Dialogue: 0,0:18:58.00,0:19:00.00,Default,,0,0,0,,James: Nice!
+Dialogue: 0,0:19:15.00,0:19:20.00,Default,,0,0,0,,(Alarm sounds)
+Dialogue: 0,0:19:16.30,0:19:18.00,Default,,0,0,0,,Matt: Nice one Amy!
+Dialogue: 0,0:19:17.00,0:19:19.00,Default,,0,0,0,,Amy: It wasn't me!
+Dialogue: 0,0:19:22.30,0:19:25.00,Default,,0,0,0,,James: It's not you... the LHC is ramping!
+Dialogue: 0,0:19:25.00,0:19:27.00,Default,,0,0,0,,Matt: Ramping ramping?
+Dialogue: 0,0:19:27.00,0:19:28.00,Default,,0,0,0,,Connor: The beams are firing!
+Dialogue: 0,0:19:28.00,0:19:30.00,Default,,0,0,0,,Amy: The team is still down there! Shut it off!
+Dialogue: 0,0:19:34.50,0:19:36.00,Default,,0,0,0,,(James pushes off switch)
+Dialogue: 0,0:19:38.50,0:19:40.00,Default,,0,0,0,,James: What the fuck?!
+Dialogue: 0,0:19:41.00,0:19:43.00,Default,,0,0,0,,Amy: The phones are down!
+Dialogue: 0,0:19:44.00,0:19:46.00,Default,,0,0,0,,Kate: What... what is going on?
+Dialogue: 0,0:19:46.00,0:19:50.00,Default,,0,0,0,,James: The LHC is turned on. The radiation levels will be killing everyone down there.
+Dialogue: 0,0:19:49.30,0:19:51.00,Default,,0,0,0,,Kate: People are dying?!
+Dialogue: 0,0:19:51.00,0:19:53.00,Default,,0,0,0,,Matt: No one is dying!
+Dialogue: 0,0:19:52.00,0:19:54.00,Default,,0,0,0,,Amy: Shut up Matt!
+Dialogue: 0,0:19:54.00,0:19:56.00,Default,,0,0,0,,Amy: James, what can we do?
