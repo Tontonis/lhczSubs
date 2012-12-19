@@ -7,13 +7,13 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Video Zoom Percent: 0.5
-Scroll Position: 253
-Active Line: 263
+Scroll Position: 264
+Active Line: 274
 PlayResX: 640
 PlayResY: 320
 Video File: ..\..\..\Downloads\132971057.mp4
 Video Aspect Ratio: c2
-Video Position: 41365
+Video Position: 45555
 Audio URI: ..\..\..\Downloads\132971057.mp4
 YCbCr Matrix: TV.601
 
@@ -286,4 +286,15 @@ Dialogue: 0,0:28:19.50,0:28:21.00,Default,,0,0,0,,Connor: What's that?!
 Dialogue: 0,0:28:21.00,0:28:24.00,Default,,0,0,0,,James: Freon coolant gas.
 Dialogue: 0,0:28:31.00,0:28:32.50,Default,,0,0,0,,Matt: What the fuck just happened?
 Dialogue: 0,0:28:34.00,0:28:40.00,Default,,0,0,0,,Amy: They looked like... the technician team that were down here. But why would they that to us?
-Dialogue: 0,0:28:40.00,0:28:42.00,Default,,0,0,0,,
+Dialogue: 0,0:28:44.00,0:28:47.00,Default,,0,0,0,,Amy: Did you see their faces?
+Dialogue: 0,0:28:46.00,0:28:51.00,Default,,0,0,0,,Connor: Radiation burns. They shouldn't even by alive.
+Dialogue: 0,0:29:06.50,0:29:08.00,Default,,0,0,0,,Matt: Where you going?
+Dialogue: 0,0:29:08.30,0:29:11.00,Default,,0,0,0,,Connor: The gas won't stop them forever.
+Dialogue: 0,0:30:13.00,0:30:15.00,Default,,0,0,0,,Connor: I found a way out. Come on, lets go.
+Dialogue: 0,0:30:15.50,0:30:17.50,Default,,0,0,0,,Matt: What if there's more of them?
+Dialogue: 0,0:30:18.00,0:30:19.50,Default,,0,0,0,,Connor: ...Here
+Dialogue: 0,0:30:31.50,0:30:33.50,Default,,0,0,0,,Amy: Take this.
+Dialogue: 0,0:31:29.70,0:31:32.00,Default,,0,0,0,,Matt: One of these maniacs has a gun?!
+Dialogue: 0,0:31:33.00,0:31:35.00,Default,,0,0,0,,Connor: Think he's been dead a while.
+Dialogue: 0,0:31:36.80,0:31:40.00,Default,,0,0,0,,Amy: What's the security guard doing down here anyway?
+Dialogue: 0,0:31:40.00,0:31:42.00,Default,,0,0,0,,
