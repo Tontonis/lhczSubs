@@ -7,13 +7,13 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Video Zoom Percent: 0.5
-Scroll Position: 293
-Active Line: 303
+Scroll Position: 324
+Active Line: 334
 PlayResX: 640
 PlayResY: 320
 Video File: ..\..\..\Downloads\132971057.mp4
 Video Aspect Ratio: c2
-Video Position: 49271
+Video Position: 59221
 Audio URI: ..\..\..\Downloads\132971057.mp4
 YCbCr Matrix: TV.601
 
@@ -326,4 +326,35 @@ Dialogue: 0,0:33:58.00,0:34:00.00,Default,,0,0,0,,Amy: We need to let someone kn
 Dialogue: 0,0:34:00.60,0:34:04.00,Default,,0,0,0,,James: There's the mainframe computer room about half way round. We can send a message from there.
 Dialogue: 0,0:34:04.00,0:34:06.00,Default,,0,0,0,,Amy: Ok.
 Dialogue: 0,0:34:09.00,0:34:15.00,Default,,0,0,0,,(Electrical flickering)
-Dialogue: 0,0:34:15.00,0:34:17.00,Default,,0,0,0,,
+Dialogue: 0,0:34:42.32,0:34:44.00,Default,,0,0,0,,Connor: Which way now?
+Dialogue: 0,0:34:53.00,0:34:55.00,Default,,0,0,0,,James: We have to go that way.
+Dialogue: 0,0:34:55.40,0:34:57.00,Default,,0,0,0,,(Flickering lights)
+Dialogue: 0,0:35:24.00,0:35:44.00,Default,,0,0,0,,(Low machine noises, heart beat and breathing)
+Dialogue: 0,0:36:06.00,0:36:10.00,Default,,0,0,0,,(Sound of tearing meat and chewing)
+Dialogue: 0,0:36:46.50,0:36:48.50,Default,,0,0,0,,(Monster screeches)
+Dialogue: 0,0:36:48.50,0:36:53.50,Default,,0,0,0,,(Sound of rapid heartbeat)
+Dialogue: 0,0:36:57.00,0:37:00.00,Default,,0,0,0,,(Monster screeches)
+Dialogue: 0,0:37:09.00,0:37:12.00,Default,,0,0,0,,(James screams)
+Dialogue: 0,0:37:21.70,0:37:23.70,Default,,0,0,0,,(James screams in anger)
+Dialogue: 0,0:37:33.00,0:37:43.70,Default,,0,0,0,,(Monster gurgles and scratches on floor)
+Dialogue: 0,0:38:00.00,0:38:03.50,Default,,0,0,0,,Matt: Jesus! What does it take to kill one of these things?!
+Dialogue: 0,0:38:03.50,0:38:05.50,Default,,0,0,0,,Amy: They're people Matt!
+Dialogue: 0,0:38:05.50,0:38:08.00,Default,,0,0,0,,Matt: No person could survive this!
+Dialogue: 0,0:38:08.00,0:38:10.00,Default,,0,0,0,,(Monster gurgles)
+Dialogue: 0,0:38:12.60,0:38:14.00,Default,,0,0,0,,Amy: Are you hurt?
+Dialogue: 0,0:38:14.30,0:38:16.00,Default,,0,0,0,,James: It's my arm.
+Dialogue: 0,0:38:36.35,0:38:38.00,Default,,0,0,0,,(Crunching bone and brain. Monster becomes silent)
+Dialogue: 0,0:38:38.30,0:38:40.00,Default,,0,0,0,,(Amy whimpers)
+Dialogue: 0,0:38:42.30,0:38:44.00,Default,,0,0,0,,(Pipe drops on floor)
+Dialogue: 0,0:38:47.80,0:38:49.50,Default,,0,0,0,,Connor: Are you alright?
+Dialogue: 0,0:38:49.50,0:38:51.50,Default,,0,0,0,,James: Yeah.
+Dialogue: 0,0:38:57.50,0:38:59.50,Default,,0,0,0,,Amy: You too?
+Dialogue: 0,0:38:59.50,0:39:01.50,Default,,0,0,0,,Connor: Ugh, yeah I'll be fine.
+Dialogue: 0,0:40:01.00,0:40:05.00,Default,,0,0,0,,(Whine of computer fans)
+Dialogue: 0,0:40:27.00,0:40:30.00,Default,,0,0,0,,James: Someone's found a way in.
+Dialogue: 0,0:40:49.00,0:40:52.00,Default,,0,0,0,,(Typing)
+Dialogue: 0,0:40:58.00,0:41:01.50,Default,,0,0,0,,Matt: It's not accepting my user name. Connor, can you hack this?
+Dialogue: 0,0:41:01.50,0:41:04.00,Default,,0,0,0,,Amy: Not now Matt, give him a minute.
+Dialogue: 0,0:41:03.70,0:41:06.00,Default,,0,0,0,,Matt: Look, the quicker we get through to the server the sooner...
+Dialogue: 0,0:41:05.80,0:41:10.00,Default,,0,0,0,,Amy: Give it a rest Matt! How much use is he going to be to us if he's concussed?!
+Dialogue: 0,0:41:10.00,0:41:12.00,Default,,0,0,0,,
