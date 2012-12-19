@@ -7,13 +7,13 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Video Zoom Percent: 0.5
-Scroll Position: 264
-Active Line: 274
+Scroll Position: 293
+Active Line: 303
 PlayResX: 640
 PlayResY: 320
 Video File: ..\..\..\Downloads\132971057.mp4
 Video Aspect Ratio: c2
-Video Position: 45555
+Video Position: 49271
 Audio URI: ..\..\..\Downloads\132971057.mp4
 YCbCr Matrix: TV.601
 
@@ -297,4 +297,33 @@ Dialogue: 0,0:30:31.50,0:30:33.50,Default,,0,0,0,,Amy: Take this.
 Dialogue: 0,0:31:29.70,0:31:32.00,Default,,0,0,0,,Matt: One of these maniacs has a gun?!
 Dialogue: 0,0:31:33.00,0:31:35.00,Default,,0,0,0,,Connor: Think he's been dead a while.
 Dialogue: 0,0:31:36.80,0:31:40.00,Default,,0,0,0,,Amy: What's the security guard doing down here anyway?
-Dialogue: 0,0:31:40.00,0:31:42.00,Default,,0,0,0,,
+Dialogue: 0,0:32:01.20,0:32:03.00,Default,,0,0,0,,Connor: What is this?
+Dialogue: 0,0:32:02.70,0:32:05.50,Default,,0,0,0,,James: The interlock turns the LHC off if people are in the tunnel.
+Dialogue: 0,0:32:09.70,0:32:13.50,Default,,0,0,0,,Amy: It's been sabotaged. Someone did this on purpose.
+Dialogue: 0,0:32:14.50,0:32:16.50,Default,,0,0,0,,(Footsteps in the distance)
+Dialogue: 0,0:32:15.50,0:32:17.50,Default,,0,0,0,,James: That could be her!
+Dialogue: 0,0:32:17.00,0:32:18.50,Default,,0,0,0,,Connor: James, stop!
+Dialogue: 0,0:32:24.50,0:32:26.00,Default,,0,0,0,,Amy: James!
+Dialogue: 0,0:32:30.70,0:32:32.70,Default,,0,0,0,,Connor: James...
+Dialogue: 0,0:32:37.35,0:32:38.70,Default,,0,0,0,,(Monster screeches)
+Dialogue: 0,0:32:38.70,0:32:45.00,Default,,0,0,0,,(Screaming and shouting)
+Dialogue: 0,0:32:46.70,0:32:48.00,Default,,0,0,0,,(Crunching blow. Creature stops screaming.)
+Dialogue: 0,0:32:50.00,0:32:52.00,Default,,0,0,0,,(Blow reverberates off of metal)
+Dialogue: 0,0:32:58.30,0:33:00.00,Default,,0,0,0,,Connor: Help!
+Dialogue: 0,0:33:00.00,0:33:02.00,Default,,0,0,0,,Amy: Give me the thing!
+Dialogue: 0,0:33:02.50,0:33:04.00,Default,,0,0,0,,(Pipe clangs into place)
+Dialogue: 0,0:33:11.50,0:33:13.00,Default,,0,0,0,,(Monster continues struggling and growling)
+Dialogue: 0,0:33:11.50,0:33:13.00,Default,,0,0,0,,(Amy cries)
+Dialogue: 0,0:33:23.70,0:33:25.50,Default,,0,0,0,,James: Jesus Christ Matt...
+Dialogue: 0,0:33:25.50,0:33:29.50,Default,,0,0,0,,Matt: I... what else was I going to do?
+Dialogue: 0,0:33:29.50,0:33:33.50,Default,,0,0,0,,(Monster continues growling, gurgling and struggling)
+Dialogue: 0,0:33:40.00,0:33:42.00,Default,,0,0,0,,Amy: If they're all like that we're screwed! 
+Dialogue: 0,0:33:42.00,0:33:45.00,Default,,0,0,0,,Amy: There were what like 30 people in this section?!
+Dialogue: 0,0:33:45.00,0:33:48.50,Default,,0,0,0,,Connor: We'll find a way out. James, which way?
+Dialogue: 0,0:33:48.50,0:33:56.00,Default,,0,0,0,,James: I thought there was an exit, back at the dead end. Next one's about a three hour walk away, it's at point 17. And that's if we don't get lost.
+Dialogue: 0,0:33:56.00,0:33:58.00,Default,,0,0,0,,Connor: Is there anywhere safe we can stop on the way?
+Dialogue: 0,0:33:58.00,0:34:00.00,Default,,0,0,0,,Amy: We need to let someone know we're down here!
+Dialogue: 0,0:34:00.60,0:34:04.00,Default,,0,0,0,,James: There's the mainframe computer room about half way round. We can send a message from there.
+Dialogue: 0,0:34:04.00,0:34:06.00,Default,,0,0,0,,Amy: Ok.
+Dialogue: 0,0:34:09.00,0:34:15.00,Default,,0,0,0,,(Electrical flickering)
+Dialogue: 0,0:34:15.00,0:34:17.00,Default,,0,0,0,,
