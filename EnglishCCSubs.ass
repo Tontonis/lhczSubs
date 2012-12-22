@@ -7,14 +7,14 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Video Zoom Percent: 0.5
-Scroll Position: 546
-Active Line: 556
+Scroll Position: 582
+Active Line: 592
 PlayResX: 640
 PlayResY: 320
-Video File: C:\Users\hday\Downloads\132971057.mp4
+Video File: ..\..\..\Downloads\132971057.mp4
 Video Aspect Ratio: c2
-Video Position: 94518
-Audio URI: C:\Users\hday\Downloads\132971057.mp4
+Video Position: 104200
+Audio URI: ..\..\..\Downloads\132971057.mp4
 YCbCr Matrix: TV.601
 
 [V4+ Styles]
@@ -557,8 +557,8 @@ Dialogue: 0,1:00:22.00,1:00:24.00,Default,,0,0,0,,(Gun shot followed by another)
 Dialogue: 0,1:00:28.20,1:00:29.50,Default,,0,0,0,,Amy: Connor...
 Dialogue: 0,1:00:33.60,1:00:35.60,Default,,0,0,0,,(Connor breathes deeply)
 Dialogue: 0,1:00:39.00,1:00:42.00,Default,,0,0,0,,(Connor growls. Gun shot)
-Dialogue: 0,1:01:22.00,1:01:25.00,Default,,0,0,0,,Worker 1: Inadmisse les jeunes souvements sont incompetent. 
-Dialogue: 0,1:01:25.00,1:01:32.00,Default,,0,0,0,,Worker 1: J'en ai mar d'avoir des resultats aussi fou tous les jours tous les jours et je dois de moyens. 
+Dialogue: 0,1:01:22.00,1:01:25.00,Default,,0,0,0,,Worker 1: Inadmisse les jeunes souvements sont incompetent.
+Dialogue: 0,1:01:25.00,1:01:32.00,Default,,0,0,0,,Worker 1: J'en ai mar d'avoir des resultats aussi fou tous les jours tous les jours et je dois de moyens.
 Dialogue: 0,1:01:32.00,1:01:35.00,Default,,0,0,0,,Worker 1: Tranchement de regarder ca. Incroyable non?
 Dialogue: 0,1:01:45.50,1:01:48.50,Default,,0,0,0,,Worker 1: Mister! Mister please this is not a safe area!
 Dialogue: 0,1:01:48.50,1:01:50.50,Default,,0,0,0,,Worker 1: Come over! We'll call an ambulance!
@@ -579,4 +579,40 @@ Dialogue: 0,1:04:15.00,1:04:18.00,Default,,0,0,0,,(Sounds of ripping flesh)
 Dialogue: 0,1:04:23.00,1:04:26.00,Default,,0,0,0,,(Monsters tear flesh. Matt screams loudly)
 Dialogue: 0,1:04:26.00,1:04:28.00,Default,,0,0,0,,(Matt falls silent)
 Dialogue: 0,1:05:19.00,1:05:22.00,Default,,0,0,0,,(Sound of flesh being eaten)
-Dialogue: 0,1:05:22.00,1:05:24.00,Default,,0,0,0,,
+Dialogue: 0,1:05:53.00,1:05:56.00,Default,,0,0,0,,(Quiet growl and footsteps)
+Dialogue: 0,1:06:14.00,1:06:16.00,Default,,0,0,0,,(Crack of bone)
+Dialogue: 0,1:06:16.00,1:06:18.00,Default,,0,0,0,,(Monster continues growling, scratching)
+Dialogue: 0,1:06:27.00,1:06:30.00,Default,,0,0,0,,(Ripping flesh)
+Dialogue: 0,1:06:43.00,1:06:45.00,Default,,0,0,0,,Amy: Connor...
+Dialogue: 0,1:06:46.30,1:06:47.50,Default,,0,0,0,,(Gun shot)
+Dialogue: 0,1:06:48.00,1:06:49.00,Default,,0,0,0,,(Connor snarls)
+Dialogue: 0,1:06:48.50,1:06:50.00,Default,,0,0,0,,(Gun shot)
+Dialogue: 0,1:06:50.50,1:06:52.00,Default,,0,0,0,,(Gun skitters across floor)
+Dialogue: 0,1:07:03.30,1:07:04.30,Default,,0,0,0,,(Bone being pierced)
+Dialogue: 0,1:07:04.30,1:07:06.30,Default,,0,0,0,,(Connor stops breathing)
+Dialogue: 0,1:09:02.00,1:09:07.00,Default,,0,0,0,,(Monsters growling and snarling)
+Dialogue: 0,1:09:07.60,1:09:10.00,Default,,0,0,0,,(People screaming in background)
+Dialogue: 0,1:09:31.50,1:09:32.50,Default,,0,0,0,,(Monster snarls)
+Dialogue: 0,1:09:56.00,1:09:59.00,Default,,0,0,0,,(Monsters bang on door)
+Dialogue: 0,1:10:11.30,1:10:13.00,Default,,0,0,0,,(Sound of glass smashing)
+Dialogue: 0,1:10:24.70,1:10:26.00,Default,,0,0,0,,(Thud against door)
+Dialogue: 0,1:10:26.60,1:10:28.00,Default,,0,0,0,,(Thud against door)
+Dialogue: 0,1:10:31.90,1:10:33.00,Default,,0,0,0,,(Gun fire)
+Dialogue: 0,1:10:41.00,1:10:43.50,Default,,0,0,0,,*"Lisa's cellphone, leave a message"*
+Dialogue: 0,1:10:43.50,1:10:45.50,Default,,0,0,0,,Amy: Lisa, pick up the phone!
+Dialogue: 0,1:10:46.00,1:10:49.80,Default,,0,0,0,,Amy: I don't have long! Everything's fucked! Everyone's dead!
+Dialogue: 0,1:10:49.80,1:10:52.80,Default,,0,0,0,,Amy: The director general killed them all. Pick up the fucking phone!
+Dialogue: 0,1:10:55.00,1:10:59.00,Default,,0,0,0,,Amy: Lisa listen I'm going to email you the data. You're the only one that can understand it.
+Dialogue: 0,1:10:59.00,1:11:01.00,Default,,0,0,0,,(Frantic typing)
+Dialogue: 0,1:11:20.50,1:11:23.00,Default,,0,0,0,,DG: Move away from the computer.
+Dialogue: 0,1:11:37.00,1:11:39.00,Default,,0,0,0,,Amy: You did this!
+Dialogue: 0,1:11:39.00,1:11:41.00,Default,,0,0,0,,Amy: You killed them all.
+Dialogue: 0,1:11:42.50,1:11:45.00,Default,,0,0,0,,DG: I didn't know this would happen!
+Dialogue: 0,1:11:45.00,1:11:47.00,Default,,0,0,0,,DG: But I had to do it.
+Dialogue: 0,1:11:47.00,1:11:51.50,Default,,0,0,0,,DG: Dr. Niven knew the Higg's is dangerous but I couldn't let that stop me.
+Dialogue: 0,1:11:51.50,1:11:53.50,Default,,0,0,0,,Amy: My research is too important!
+Dialogue: 0,1:11:53.50,1:11:55.50,Default,,0,0,0,,DG: I had to!
+Dialogue: 0,1:11:57.50,1:12:00.50,Default,,0,0,0,,DG: And I can't let anyone.
+Dialogue: 0,1:12:10.90,1:12:12.90,Default,,0,0,0,,(Gun fire)
+Dialogue: 0,1:12:16.00,1:12:26.00,Default,,0,0,0,,(Credits roll)
+Dialogue: 0,1:12:26.00,1:12:28.00,Default,,0,0,0,,
